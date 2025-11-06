@@ -49,14 +49,19 @@ Label messages with sequence numbers and direction arrows.
 ### UML DIAGRAMS:
 USE CASE DIAGRAM
 ![Screenshot 2025-05-16 212717](https://github.com/user-attachments/assets/266e2741-3078-4d01-abe0-10e6608ba3e2)
+
 CLASS DIAGRAM
 ![Screenshot 2025-05-16 212816](https://github.com/user-attachments/assets/381711c8-cd8c-4fd4-b55d-2d620d02bb43)
+
 PACKAGE DIAGRAM
 ![Screenshot 2025-05-16 212844](https://github.com/user-attachments/assets/15909603-bc8b-41b5-94aa-c34d6e14f9e5)
+
 ACTIVITY DIAGRAM
 <img width="482" height="997" alt="image" src="https://github.com/user-attachments/assets/e6bb7634-66b5-4e16-91a5-705602e4f0f0" />
+
 SEQUENCE DIAGRAM
 <img width="868" height="749" alt="image" src="https://github.com/user-attachments/assets/2c170638-524c-4283-92b2-1272bb402d6c" />
+
 COMMUNICATION DIAGRAM
 ![Screenshot 2025-05-16 213021](https://github.com/user-attachments/assets/f99176bf-92a7-4ca8-9bfb-b1e86e905d27)
 
