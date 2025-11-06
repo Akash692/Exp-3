@@ -2,35 +2,36 @@
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
-1. Class Diagram
+# SRS (Procedure):
+# 1. Class Diagram
 Identify classes with attributes and methods.
 
 Define relationships (association, generalization, aggregation).
 
 Use class boxes and connectors.
 
-2. Use Case Diagram
+# 2. Use Case Diagram
 Identify actors and use cases.
 
 Draw actors outside, use cases inside the system boundary.
 
-Connect actors to use cases; use <>, <> if needed.
+Connect actors to use cases; use <<include>>, <<extend>> if needed.
 
-3. Activity Diagram
+# 3. Activity Diagram
 Identify activities, decisions, start and end nodes.
 
 Use flow arrows, decision diamonds, and activity boxes.
 
 Represent process flow clearly.
 
-4. Package Diagram
+# 4. Package Diagram
 Group related classes into packages.
 
 Draw packages using folder-like symbols.
 
 Show dependencies between packages with dashed arrows.
 
-5. Sequence Diagram
+# 5. Sequence Diagram
 Identify objects and message sequence.
 
 Draw lifelines vertically.
@@ -39,7 +40,7 @@ Use horizontal arrows for messages (in order from top to bottom).
 
 Show activation bars if needed.
 
-6. Communication Diagram
+# 6. Communication Diagram
 Identify objects and interactions.
 
 Represent objects as boxes connected by lines.
